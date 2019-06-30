@@ -11,3 +11,6 @@ Paste at ``await page.goto('https://www.instagram.com/p/BzS9hlFnMhr/');``
 # Run
 Open cmd and cd to folder root of project and type: </br>
 ``node puppeteeth``
+# Expected
+Image will be downloaded at `./src/img/` with name like: `picture-<random_string>.jpg`
+
