@@ -1,5 +1,5 @@
 # download-image
-just simple code and written by node js.  Idea by #toidicodedao
+just simple code, written by node js.  Idea by #toidicodedao
 
 # Install
 ``npm install``
